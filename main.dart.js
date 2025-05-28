@@ -31726,14 +31726,14 @@ p=k.Bo("Equipo Ejecutivo")
 if(h)n=3
 else n=k.d?2:1
 if(h)m=0.8
-else m=k.d?0.9:1.1
-n=A.a9h(m,A.c([k.tE("Erik Garcia","CEO & CTO","Machine Learning Engineer especializado en computer vision y deep learning. Ingeniero de Sistemas Universidad de los Andes","assets/images/team/erik.jpg",B.aK),k.tE("Valentina Garcia","COO","Especialista en operaciones y escalabilidad. Administradora de Empresas Universidad de los Andes","assets/images/team/valentina.jpg",B.dr),k.tE("Nicolas Florez","CLO","Abogado con expertise en derecho de la tecnolog\xedas de la informaci\xf3n. Universidad de los Andes","assets/images/team/nicolas.jpg",B.xr)],r),n,30,30,B.p8,!0)
+else m=0.9
+n=A.a9h(m,A.c([k.tE("Erik Garcia","CEO & CTO","Machine Learning Engineer especializado en computer vision y deep learning. Fundador visionario con experiencia en IA y sistemas distribuidos. Ingeniero de Sistemas Universidad de los Andes","assets/images/team/erik.jpg",B.aK),k.tE("Valentina Garcia","COO","Especialista en operaciones y escalabilidad. Administradora de Empresas Universidad de los Andes","assets/images/team/valentina.jpg",B.dr),k.tE("Nicolas Florez","CLO","Abogado con expertise en derecho de la tecnolog\xedas de la informaci\xf3n. Universidad de los Andes","assets/images/team/nicolas.jpg",B.xr)],r),n,30,30,B.p8,!0)
 m=k.Bo("Equipo T\xe9cnico")
 if(h)l=4
 else l=k.d?2:1
 if(h)h=0.85
-else h=k.d?0.9:1.1
-return A.cS(A.aaL(A.hE(A.c([q,B.d1,o,B.hR,p,B.d1,n,B.hR,m,B.d1,A.a9h(h,A.c([k.tF("Lorena Pinzon","Data Scientist","Data Scientist Universidad del Externado","assets/images/team/lorena.jpg",B.xF,!0),k.tF("Maira Barbosa","Technical Operations Coordinator","Ingeniera de Sistemas Universidad de los Andes","assets/images/team/maira.jpg",B.xG,!0)],r),l,25,25,B.p8,!0),B.hR],r),B.ay),new A.b5(s,60,s,60),j),new A.bR(j,j,j,j,j,new A.eM(B.ch,B.bP,B.ax,i,j,j),B.Z),j,j,j,j)},
+else h=k.d?0.9:1
+return A.cS(A.aaL(A.hE(A.c([q,B.d1,o,B.hR,p,B.d1,n,B.hR,m,B.d1,A.a9h(h,A.c([k.tF("Lorena Pinzon","Data Scientist","Data Scientist Universidad del Externado con pasi\xf3n por la moda y la m\xfasica, aplicando creatividad e innovaci\xf3n en el an\xe1lisis de datos","assets/images/team/lorena.jpg",B.xF,!0),k.tF("Maira Barbosa","Technical Operations Coordinator","Ingeniera de Sistemas de la Universidad de los Andes especializada en operaciones digitales y coordinaci\xf3n de procesos t\xe9cnicos organizacionales","assets/images/team/maira.jpg",B.xG,!0)],r),l,25,25,B.p8,!0),B.hR],r),B.ay),new A.b5(s,60,s,60),j),new A.bR(j,j,j,j,j,new A.eM(B.ch,B.bP,B.ax,i,j,j),B.Z),j,j,j,j)},
 Bo(a){var s,r=null
 if(this.c)s=32
 else s=this.d?28:24
@@ -31760,7 +31760,7 @@ if(s.length>=2)return s[0][0]+s[1][0]
 else return s[0][0]}}
 A.AX.prototype={
 V(a){var s=null
-return new A.rs(B.z0,"Builker Basic Page",A.Zo(B.vx,s,B.x9,A.a5m(B.xM,B.N,B.iX,s,B.aK,B.dr,B.aK,B.e),new A.mH(A.ahv(s,0,s,B.yI,new A.dC(A.kl(12),B.t),s)),B.LR,!0),A.Zo(B.vy,s,s,A.a5m(B.j8,B.a_,B.iX,s,B.aK,B.dr,B.aK,B.b2),s,s,!0),B.uR,!0,s)}}
+return new A.rs(B.z0,"Builker",A.Zo(B.vx,s,B.x9,A.a5m(B.xM,B.N,B.iX,s,B.aK,B.dr,B.aK,B.e),new A.mH(A.ahv(s,0,s,B.yI,new A.dC(A.kl(12),B.t),s)),B.LR,!0),A.Zo(B.vy,s,s,A.a5m(B.j8,B.a_,B.iX,s,B.aK,B.dr,B.aK,B.b2),s,s,!0),B.uR,!0,s)}}
 A.YD.prototype={
 gG(){var s=this,r=s.d
 return r==null?s.d=B.d.aj(s.a,s.b,s.c):r},
